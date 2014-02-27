@@ -3,6 +3,9 @@ Jira in GitHub
 
 A Chrome extension that adds a Jira link for Jira issue id in pull requests.
 
+
+![Screenshot](https://raw.github.com/jongotlin/JiraInGitHub/master/screenshot.png)
+
 How to install
 --------------
 
