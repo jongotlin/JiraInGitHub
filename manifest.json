@@ -1,0 +1,13 @@
+{
+    "manifest_version": 2,
+    "version": "1",
+    "name": "JiraInGitHub",
+    "description": "",
+    "icons": {
+    },
+    "content_scripts": [ {
+        "js": [ "jquery-2.1.0.min.js", "script.js" ],
+        "matches": [ "https://github.com/*" ],
+        "run_at": "document_idle"
+    } ]
+}
