@@ -10,3 +10,8 @@ How to install
 2. Open `chrome://extensions/` in Chrome
 3. Activate `developer mode`
 4. Click on `Load unpacked extension...` and choose the `JiraInGitHub` folder
+
+TODO
+----
+
+* Make it possible to use the extension for other projects than Zoozoo.
