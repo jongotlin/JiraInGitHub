@@ -14,6 +14,9 @@ How to install
 3. Activate `developer mode`
 4. Click on `Load unpacked extension...` and choose the `JiraInGitHub` folder
 
+Or you can download [packed extension](https://raw.github.com/jongotlin/JiraInGitHub/master/JiraInGitHub.crx) and drag it to Google Chrome to install.
+
+
 TODO
 ----
 
